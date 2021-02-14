@@ -1,4 +1,8 @@
-### Hi there 👋I like to code random (mostly useless) stuff
+### Hi there 👋 I like to code random (mostly useless) stuff
+
+![a](https://img.shields.io/badge/OS-MacOS-orange) ![sports](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue) ![sports](https://img.shields.io/badge/Secondary%20Text%20Editor-VIM-green) 
+
+![hitthemoney's github stats](https://github-readme-stats.vercel.app/api?username=hitthemoney&show_icons=true&theme=dark)
 
 <!--
 **hitthemoney/hitthemoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
