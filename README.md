@@ -1,4 +1,5 @@
-### Hi there 👋 I like to code random (mostly useless) stuff
+## Hi there my name is hitthemoney 👋 I like to code random (mostly useless) stuff
+My favorite language is JavaScript, but I also enjoy programming in other languages such as C/C++, Swift, and more!
 
 ![a](https://img.shields.io/badge/OS-MacOS-orange) ![sports](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue) ![sports](https://img.shields.io/badge/Secondary%20Text%20Editor-VIM-green) 
 
