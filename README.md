@@ -1,7 +1,7 @@
 ## Hi there my name is hitthemoney 👋 I like to code random (mostly useless) stuff
 My favorite language is JavaScript, but I also enjoy programming in other languages such as C/C++, Swift, and more!
 
-![a](https://img.shields.io/badge/OS-MacOS-orange) ![sports](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue) ![sports](https://img.shields.io/badge/Secondary%20Text%20Editor-VIM-green) 
+![OS: MacOS](https://img.shields.io/badge/OS-MacOS-orange) ![Text Editor: Visual Studio Code](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue) ![Secondary Text Editor: VIM](https://img.shields.io/badge/Secondary%20Text%20Editor-VIM-green) 
 
 ![hitthemoney's github stats](https://github-readme-stats.vercel.app/api?username=hitthemoney&show_icons=true&theme=dark)
 
