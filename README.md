@@ -1,5 +1,5 @@
 ## Hi there my name is hitthemoney 👋 I like to code random (mostly useless) stuff
-My favorite language is JavaScript, but I also enjoy programming in other languages such as C/C++, Swift, and more!
+My favorite language is JavaScript, but I also enjoy programming in other languages such as C/C++, Swift, and more.
 
 Discord: hitthemoney#1337
 
