@@ -1,7 +1,7 @@
 ## Hi there my name is hitthemoney 👋 I like to code random (mostly useless) stuff
 My favorite language is JavaScript, but I also enjoy programming in other languages such as C/C++, Swift, and more.
 
-Discord: hitthemoney#1337
+Discord: hitthemoney
 
 ![OS: MacOS](https://img.shields.io/badge/OS-MacOS-orange) ![Text Editor: Visual Studio Code](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue)
 
